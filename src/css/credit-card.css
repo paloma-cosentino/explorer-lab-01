@@ -16,6 +16,10 @@
   justify-content: space-between;
   align-items: center;
 }
+.cc-logo #card-logo{
+  max-width: 60px;
+}
+
 
 .cc-info {
   display: grid;
